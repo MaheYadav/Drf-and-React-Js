@@ -12,15 +12,14 @@ Two Steps Executed this project In Your System
 Step1:
 
 First Priority Gives to Django Rest Frame work 
-  Lets  coming to main point first create django project using the command (django-admin startproject <Project Name>
-  Next Write the code models.py,serializer.py,views.py and existing one Url.py That's it.
-  Keep in Brian woring directory is manage.py file.Later that run project using command(>>>python manage.py runserver)
+Lets  coming to main point first create django project using the command (django-admin startproject <Project Name>
+Next Write the code models.py,serializer.py,views.py and existing one Url.py That's it.
+Keep in Brian woring directory is manage.py file.Later that run project using command(>>>python manage.py runserver)
 
-Step2:
-  
+Step2:  
 Second Priority Gives to  React Js Application
-  Create react js application  in same django project location (>>npm create-app 'app name')
-  Next write on code app.js file and  run project using command (>>npm start)
+Create react js application  in same django project location (>>npm create-app 'app name')
+Next write on code app.js file and  run project using command (>>npm start)
   
   
 
