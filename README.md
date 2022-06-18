@@ -2,7 +2,9 @@
 In Project Explain How to Create api using Django Rest Frame Work along with How To Fetch data from api to React js Application.
 
 Prerequiters:
->>Python 10.0 (Latest Version)
+
+>>Python 10.0 (Latest Version) (To Download from this link https://www.python.org/downloads/)
+
 >>Node Js 16.15.1 (To Download from this link https://nodejs.org/en/download/)
 
 Two Steps Executed this project In Your System 
